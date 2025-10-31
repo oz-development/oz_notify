@@ -12,4 +12,9 @@ local src = source
 
 exports['oz_notify']:ShowNotify(src, 'success', 'Success Massage')
 
+
 exports['oz_notify']:ShowNotify(src, 'error', 'Error Message')
+
+## Preview:
+
+[img]https://i.imgur.com/ntcJDKQ.png[/img]
