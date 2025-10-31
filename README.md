@@ -17,5 +17,4 @@ exports['oz_notify']:ShowNotify(src, 'error', 'Error Message')
 
 ## Preview:
 
-
-![Preview]((https://i.imgur.com/ntcJDKQ.png))
+https://i.imgur.com/ntcJDKQ.png
